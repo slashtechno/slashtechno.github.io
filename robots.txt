@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://slashtechno.github.io/sitemap.xml
