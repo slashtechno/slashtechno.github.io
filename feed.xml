@@ -3,7 +3,7 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-04-10T15:38:48-05:00</updated>
+    <updated>2021-04-10T15:55:09-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
@@ -22,22 +22,27 @@
             <category term="samsung"/>
             <category term="review"/>
 
-        <updated>2021-04-10T15:38:48-05:00</updated>
+        <updated>2021-04-10T15:55:09-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>I recently bought a Samsung T7 and I was and am amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
+                    <p>I recently bought a Samsung T7 and I was (and am) amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I recently bought a Samsung T7 and I was and am amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
+                <p>I recently bought a Samsung T7 and I was (and am) amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
 
 <h2 class="align-center">Design</h2>
-<p>The T7 is very thin, yet it feels (and is) durable and sturdy. If you are looking to buy this SSD, I recommend the red or blue versions. </p>
+<p>The T7 is thin and very compact, yet it feels (and is) durable and sturdy. If you are looking to buy this SSD, I recommend the red or blue versions. </p>
 <h2 class="align-center">Speed!</h2>
 <p>For general use, the T7 is more then fast enough. If you are looking for a SSD to run an OS off of, I would recommend the T7. Also, it supports USB-C. This SSD (even over USB 2.0) is faster then some internal hard drives.</p>
-<h2> </h2>
+<h2 class="align-center">Encryption</h2>
+<p>With Samsung's software, you can encrypt the normal T7 with password encryption. If you spend the extra money for the Samsung T7 Touch, you can add fingerprint encryption. </p>
+<h2 class="align-center">Drawbacks</h2>
+<p>The only drawback that I have noticed is the cooling. Or lack of cooling. Samsung claims to have an advanced cooling solution but when I was installing Kali Linux it did heat up slightly.</p>
+<h2 class="msg--info align-center">Conclusion</h2>
+<p>If you want a decent portable SSD, buy the Samsung T7. It is much faster then a hard drive, has encryption, is durable, and has a great design.  </p>
             ]]>
         </content>
     </entry>
