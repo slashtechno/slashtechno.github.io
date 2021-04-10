@@ -3,10 +3,22 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2021-04-09T20:07:33-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
     <id>https://slashtechno.github.io</id>
 
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>slashtechno</name>
+        </author>
+        <link href="https://slashtechno.github.io/hello-world-2.html"/>
+        <id>https://slashtechno.github.io/hello-world-2.html</id>
+
+        <updated>2021-04-09T20:07:33-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
