@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>slashtechno</title>
+    <link href="https://slashtechno.github.io/slashtechno.github.io/feed.xml" rel="self" />
+    <link href="https://slashtechno.github.io/slashtechno.github.io" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>slashtechno</name>
+    </author>
+    <id>https://slashtechno.github.io/slashtechno.github.io</id>
+
+</feed>
