@@ -32,15 +32,15 @@
             "id": "https://slashtechno.github.io/hello-world-2/",
             "url": "https://slashtechno.github.io/hello-world-2/",
             "title": "Hello World",
-            "summary": "I am Slashtechno. I am an intermediate programmer who uses Python and some Bash. My Github profile is here",
-            "content_html": "<p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash.</p>\n<p class=\"align-center\">My Github profile is <a href=\"https://github.com/slashtechno\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>",
+            "summary": "<p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash.</p>\n<p class=\"align-center\">My Github profile is <a href=\"https://github.com/slashtechno\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>\n",
+            "content_html": "<p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash.</p>\n<p class=\"align-center\">My Github profile is <a href=\"https://github.com/slashtechno\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></p>\n\n<p> </p>",
             "author": {
                 "name": "slashtechno"
             },
             "tags": [
             ],
             "date_published": "2021-04-09T20:07:33-05:00",
-            "date_modified": "2021-04-09T20:12:15-05:00"
+            "date_modified": "2021-04-10T16:15:14-05:00"
         }
     ]
 }
