@@ -3,7 +3,7 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-04-10T16:15:14-05:00</updated>
+    <updated>2021-04-10T16:16:21-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
@@ -54,18 +54,16 @@
         <link href="https://slashtechno.github.io/hello-world-2/"/>
         <id>https://slashtechno.github.io/hello-world-2/</id>
 
-        <updated>2021-04-10T16:15:14-05:00</updated>
+        <updated>2021-04-10T16:16:21-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash.</p>
-<p class="align-center">My Github profile is <a href="https://github.com/slashtechno" target="_blank" rel="noopener noreferrer">here</a></p>
+                    <p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash. Check out my code :D</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash.</p>
-<p class="align-center">My Github profile is <a href="https://github.com/slashtechno" target="_blank" rel="noopener noreferrer">here</a></p>
+                <p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash. Check out my code :D</p>
 
 <p> </p>
             ]]>
