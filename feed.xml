@@ -3,12 +3,44 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-04-09T20:12:15-05:00</updated>
+    <updated>2021-04-10T15:38:48-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
     <id>https://slashtechno.github.io</id>
 
+    <entry>
+        <title>Samsung T7 Review</title>
+        <author>
+            <name>slashtechno</name>
+        </author>
+        <link href="https://slashtechno.github.io/samsung-t7-review/"/>
+        <id>https://slashtechno.github.io/samsung-t7-review/</id>
+            <category term="tech"/>
+            <category term="t7ssd"/>
+            <category term="ssd"/>
+            <category term="samsung"/>
+            <category term="review"/>
+
+        <updated>2021-04-10T15:38:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>I recently bought a Samsung T7 and I was and am amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I recently bought a Samsung T7 and I was and am amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
+
+<h2 class="align-center">Design</h2>
+<p>The T7 is very thin, yet it feels (and is) durable and sturdy. If you are looking to buy this SSD, I recommend the red or blue versions. </p>
+<h2 class="align-center">Speed!</h2>
+<p>For general use, the T7 is more then fast enough. If you are looking for a SSD to run an OS off of, I would recommend the T7. Also, it supports USB-C. This SSD (even over USB 2.0) is faster then some internal hard drives.</p>
+<h2> </h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World</title>
         <author>

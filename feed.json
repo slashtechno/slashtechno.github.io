@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://slashtechno.github.io/samsung-t7-review/",
+            "url": "https://slashtechno.github.io/samsung-t7-review/",
+            "title": "Samsung T7 Review",
+            "summary": "<p>I recently bought a Samsung T7 and I was and am amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>\n",
+            "content_html": "<p>I recently bought a Samsung T7 and I was and am amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>\n\n<h2 class=\"align-center\">Design</h2>\n<p>The T7 is very thin, yet it feels (and is) durable and sturdy. If you are looking to buy this SSD, I recommend the red or blue versions. </p>\n<h2 class=\"align-center\">Speed!</h2>\n<p>For general use, the T7 is more then fast enough. If you are looking for a SSD to run an OS off of, I would recommend the T7. Also, it supports USB-C. This SSD (even over USB 2.0) is faster then some internal hard drives.</p>\n<h2> </h2>",
+            "author": {
+                "name": "slashtechno"
+            },
+            "tags": [
+                   "tech",
+                   "t7ssd",
+                   "ssd",
+                   "samsung",
+                   "review"
+            ],
+            "date_published": "2021-04-10T15:25:49-05:00",
+            "date_modified": "2021-04-10T15:38:48-05:00"
+        },
+        {
             "id": "https://slashtechno.github.io/hello-world-2/",
             "url": "https://slashtechno.github.io/hello-world-2/",
             "title": "Hello World",
