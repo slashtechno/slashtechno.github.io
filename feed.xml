@@ -3,7 +3,7 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-04-17T10:30:44-05:00</updated>
+    <updated>2021-04-17T10:38:38-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
@@ -16,8 +16,11 @@
         </author>
         <link href="https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/"/>
         <id>https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/</id>
+            <category term="tutorial"/>
+            <category term="tech"/>
+            <category term="t7ssd"/>
 
-        <updated>2021-04-17T10:30:44-05:00</updated>
+        <updated>2021-04-17T10:38:38-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>My current setup for my <a href="https://slashtechno.github.io/samsung-t7-review/" target="_blank" rel="noopener noreferrer">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>
