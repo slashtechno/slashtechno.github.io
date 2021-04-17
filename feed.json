@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/",
+            "url": "https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/",
+            "title": "Backup an external USB to Google Drive",
+            "summary": "<p>My current setup for my <a href=\"https://slashtechno.github.io/samsung-t7-review/\" target=\"_blank\" rel=\"noopener noreferrer\">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>\n",
+            "content_html": "<p>My current setup for my <a href=\"https://slashtechno.github.io/samsung-t7-review/\" target=\"_blank\" rel=\"noopener noreferrer\">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>\n\n<p>1. Open the Backups tool on Ubuntu</p>\n<p>2. Select \"Storage Location\"</p>\n<p>3. From the drop down, select Google Drive</p>\n<p>4. Choose whatever folder name you would like (this will appear in your Google Drive)</p>\n<p>5. Go to \"Folders to Save\"</p>\n<p>6. Select the current folder (\"This should be your home directory)</p>\n<p>7. Press the dash at the bottom</p>\n<p>8. Press the plus at the bottom</p>\n<p>9. Go to your drive and select \"Add\"</p>\n<p>10. Go to Scheduling and select whatever you want</p>\n<p>11. Go to overview and press Backup Now</p>\n<p>12. Now it will ask permission to install a Python Dependency (Allow It)</p>\n<p>13. Now sign in to your Google Account.</p>",
+            "author": {
+                "name": "slashtechno"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-17T10:30:44-05:00",
+            "date_modified": "2021-04-17T10:30:44-05:00"
+        },
+        {
             "id": "https://slashtechno.github.io/samsung-t7-review/",
             "url": "https://slashtechno.github.io/samsung-t7-review/",
             "title": "Samsung T7 Review",

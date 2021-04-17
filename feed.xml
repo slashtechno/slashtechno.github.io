@@ -3,12 +3,47 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-04-10T16:20:49-05:00</updated>
+    <updated>2021-04-17T10:30:44-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
     <id>https://slashtechno.github.io</id>
 
+    <entry>
+        <title>Backup an external USB to Google Drive</title>
+        <author>
+            <name>slashtechno</name>
+        </author>
+        <link href="https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/"/>
+        <id>https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/</id>
+
+        <updated>2021-04-17T10:30:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>My current setup for my <a href="https://slashtechno.github.io/samsung-t7-review/" target="_blank" rel="noopener noreferrer">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My current setup for my <a href="https://slashtechno.github.io/samsung-t7-review/" target="_blank" rel="noopener noreferrer">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>
+
+<p>1. Open the Backups tool on Ubuntu</p>
+<p>2. Select "Storage Location"</p>
+<p>3. From the drop down, select Google Drive</p>
+<p>4. Choose whatever folder name you would like (this will appear in your Google Drive)</p>
+<p>5. Go to "Folders to Save"</p>
+<p>6. Select the current folder ("This should be your home directory)</p>
+<p>7. Press the dash at the bottom</p>
+<p>8. Press the plus at the bottom</p>
+<p>9. Go to your drive and select "Add"</p>
+<p>10. Go to Scheduling and select whatever you want</p>
+<p>11. Go to overview and press Backup Now</p>
+<p>12. Now it will ask permission to install a Python Dependency (Allow It)</p>
+<p>13. Now sign in to your Google Account.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Samsung T7 Review</title>
         <author>
