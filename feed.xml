@@ -3,12 +3,39 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-04-17T10:38:38-05:00</updated>
+    <updated>2021-05-20T18:17:56-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
     <id>https://slashtechno.github.io</id>
 
+    <entry>
+        <title>My Thoughts on the M1 iPad</title>
+        <author>
+            <name>slashtechno</name>
+        </author>
+        <link href="https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/"/>
+        <id>https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/</id>
+
+        <updated>2021-05-20T18:17:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                     If you are a person reading this website, you probably are aware of the M1 iPad Pro. If not, click me. Basically&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    If you are a person reading this website, you probably are aware of the M1 iPad Pro. If not, <a href="https://www.apple.com/ipad-pro/" target="_blank">click me</a>. Basically Apple took a Macbook Air, took away the keyboard, made the OS X into iPad OS. I think that the price of the iPad itself, for the hardware, is really good. Buying this iPad a good deal in the sense that you are getting a very powerful machine. However, iPad OS is turning this very powerful machine, into a 2 in 1 Chromebook with some more apps. However, if in the future they allow the iPad to run OS X, it would be <b>incredible. </b>You will be getting around the same performance of the&nbsp;$1,299 Macbook pro.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Backup an external USB to Google Drive</title>
         <author>
