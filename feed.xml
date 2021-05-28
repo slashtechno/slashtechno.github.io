@@ -3,7 +3,7 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-05-20T18:25:48-05:00</updated>
+    <updated>2021-05-28T16:36:51-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
@@ -14,35 +14,21 @@
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/"/>
-        <id>https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/</id>
+        <link href="https://slashtechno.github.io/my-thoughts-on-the-m1-ipad.html"/>
+        <id>https://slashtechno.github.io/my-thoughts-on-the-m1-ipad.html</id>
 
-        <updated>2021-05-20T18:25:48-05:00</updated>
+        <updated>2021-05-28T16:36:51-05:00</updated>
             <summary>
                 <![CDATA[
-                    
-  <p>
-    If you are a person reading this website, you probably are aware of the M1 iPad Pro. If not, <a href="https://www.apple.com/ipad-pro/" target="_blank">check it out</a>.
-  </p>
-
+                    If you are a person reading this website, you probably are aware of the M1 iPad Pro. If not, check it out. Basically Apple took a Macbook Air, took away the keyboard, and made OS X into iPad OS. I think that the price of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    If you are a person reading this website, you probably are aware of the M1 iPad Pro. If not, <a href="https://www.apple.com/ipad-pro/" target="_blank">check it out</a>.
-  </p>
-<hr id="read-more" />
-
-  <p>
-    &nbsp;Basically Apple took a Macbook Air, took away the keyboard, and made OS X into iPad OS. I think that the price of the iPad itself, for the hardware, is really good. Buying this iPad a good deal in the sense that you are getting a very powerful machine. However, iPad OS is turning this very powerful machine, into a 2 in 1 Chromebook with some more apps. However, if in the future they allow the iPad to run OS X, it would be incredible. You will be getting around the same performance of the $1,299 Macbook Pro. Even better, this would have been a $700 Macbook with a touchscreen, and a keyboard (for another $300 though).
-  </p>
-<hr class="separator separator--dots" />
-
-  <p>
-    Anyway, thanks for reading.
-  </p>
+                <p class="align-left">If you are a person reading this website, you probably are aware of the M1 iPad Pro. If not, <a href="https://www.apple.com/ipad-pro/" target="_blank" rel="noopener">check it out</a>.</p>
+<p class="align-left"> Basically Apple took a Macbook Air, took away the keyboard, and made OS X into iPad OS. I think that the price of the iPad itself, for the hardware, is really good. Buying this iPad a good deal in the sense that you are getting a very powerful machine. However, iPad OS is turning this very powerful machine, into a 2 in 1 Chromebook with some more apps. However, if in the future they allow the iPad to run OS X, it would be incredible. You will be getting around the same performance of the $1,299 Macbook Pro. Even better, this would have been a $700 Macbook with a touchscreen, and a keyboard (for another $300 though).</p>
+<p> </p>
+<p>Anyway, thanks for reading.</p>
             ]]>
         </content>
     </entry>
@@ -51,23 +37,19 @@
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/"/>
-        <id>https://slashtechno.github.io/how-to-backup-an-external-usb-to-google-drive/</id>
-            <category term="tutorial"/>
-            <category term="tech"/>
-            <category term="t7ssd"/>
+        <link href="https://slashtechno.github.io/backup-an-external-usb-to-google-drive.html"/>
+        <id>https://slashtechno.github.io/backup-an-external-usb-to-google-drive.html</id>
 
-        <updated>2021-04-17T10:38:38-05:00</updated>
+        <updated>2021-05-28T16:33:37-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>My current setup for my <a href="https://slashtechno.github.io/samsung-t7-review/" target="_blank" rel="noopener noreferrer">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>
-
+                     My current setup for my SSD, is Ubuntu, Kali Linux, and and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>My current setup for my <a href="https://slashtechno.github.io/samsung-t7-review/" target="_blank" rel="noopener noreferrer">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>
-
+                <div class="wrapper post__entry">
+<p>My current setup for my <a href="https://slashtechno.github.io/samsung-t7-review/" target="_blank" rel="noopener noreferrer">SSD</a>, is Ubuntu, Kali Linux, and  and a 100 GB partition for normal file storage. Using Ubuntu, I am backing this up to Google Drive daily using the Déjà Dup Backup Tool. This is how you can also backup an external drive.</p>
 <p>1. Open the Backups tool on Ubuntu</p>
 <p>2. Select "Storage Location"</p>
 <p>3. From the drop down, select Google Drive</p>
@@ -81,6 +63,7 @@
 <p>11. Go to overview and press Backup Now</p>
 <p>12. Now it will ask permission to install a Python Dependency (Allow It)</p>
 <p>13. Now sign in to your Google Account.</p>
+</div>
             ]]>
         </content>
     </entry>
@@ -89,25 +72,18 @@
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/samsung-t7-review/"/>
-        <id>https://slashtechno.github.io/samsung-t7-review/</id>
-            <category term="tech"/>
-            <category term="t7ssd"/>
-            <category term="ssd"/>
-            <category term="samsung"/>
-            <category term="review"/>
+        <link href="https://slashtechno.github.io/samsung-t7-review.html"/>
+        <id>https://slashtechno.github.io/samsung-t7-review.html</id>
 
-        <updated>2021-04-10T16:20:49-05:00</updated>
+        <updated>2021-05-28T16:28:55-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>I recently bought a Samsung T7 and I was (and am) amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
-
+                    I recently bought a Samsung T7 and I was (and am) amazed. I am currently running Ubuntu and Kali Linux off of it. In fact I am typing this on the SSD. The T7 is thin and very compact, yet it feels (and is) durable&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>I recently bought a Samsung T7 and I was (and am) amazed. I am currently running Ubuntu and Kali Linux off of  it. In fact I am typing this on the SSD.</p>
-
 <h2 class="align-center">Design</h2>
 <p>The T7 is thin and very compact, yet it feels (and is) durable and sturdy. If you are looking to buy this SSD, I recommend the red or blue versions. </p>
 <h2 class="align-center">Speed!</h2>
@@ -118,29 +94,6 @@
 <p>The only drawback that I have noticed is the cooling. Or lack of cooling. Samsung claims to have an advanced cooling solution but when I was installing Kali Linux it did heat up slightly.</p>
 <h2 class="msg--info align-center">Conclusion</h2>
 <p>If you want a decent portable SSD, buy the Samsung T7. It is much faster then a hard drive, has encryption, is durable, and has a great design.  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hello World</title>
-        <author>
-            <name>slashtechno</name>
-        </author>
-        <link href="https://slashtechno.github.io/hello-world-2/"/>
-        <id>https://slashtechno.github.io/hello-world-2/</id>
-
-        <updated>2021-04-10T16:16:21-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash. Check out my code :D</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am Slashtechno. I am an intermediate programmer who uses Python and some Bash. Check out my code :D</p>
-
-<p> </p>
             ]]>
         </content>
     </entry>
