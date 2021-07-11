@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://slashtechno.github.io/min-browser-review/",
+            "url": "https://slashtechno.github.io/min-browser-review/",
+            "title": "Min Browser Review",
+            "summary": "<p>Recently, I became aware of the browser Min. Min is a simple, minimalistic, open source, Electron browser.</p>\n",
+            "content_html": "<p>Recently, I became aware of the browser Min. Min is a simple, minimalistic, open source, Electron browser.</p>\n\n<p>Min can work as a basic browser. It has a very modern and minimalistic interface, focus mode, and even a feature called tasks which allows you to have different workspaces for your tabs.  One downside is that Min does not offer support extensions (as of now). However, it does offer support for 1Password, Bitwarden, and even a built in password manager.</p>\n<p> </p>\n<h4> </h4>\n<h3 class=\"align-center\">Speed</h3>\n<p>When using Min, I found the speed to be reasonably fast. This may be partly due to the fact that Min does not have some advanced features (syncing, extensions, etc.) compared to many other browsers.</p>\n<p> </p>\n<h3 class=\"align-center\">Interface Navigation Speed</h3>\n<p>With DuckDuckGo bang autocomplete and Min tasks, the workflow in Min is vaguely similar to that of Ubuntu. It is easy to muti-task in one window while keeping tabs separate. Almost like tab grouping in Google Chrome.</p>\n<p> </p>\n<h3 class=\"align-center\">Conclusion</h3>\n<p>Min is a good browser that is open source and is fast. However, because the browser is very simple, not everything is compatible and extensions are nearly non existent. However, with password manager support and tracker blocking, Min is a simple browser that could easily be used day to day. </p>\n<p> </p>",
+            "author": {
+                "name": "slashtechno"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-10T19:57:20-05:00",
+            "date_modified": "2021-07-10T19:57:20-05:00"
+        },
+        {
             "id": "https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/",
             "url": "https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/",
             "title": "My Thoughts on the M1 iPad",
