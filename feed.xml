@@ -3,7 +3,7 @@
     <title>slashtechno</title>
     <link href="https://slashtechno.github.io/feed.xml" rel="self" />
     <link href="https://slashtechno.github.io" />
-    <updated>2021-07-10T19:57:20-05:00</updated>
+    <updated>2021-07-10T20:00:31-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://slashtechno.github.io/min-browser-review/"/>
         <id>https://slashtechno.github.io/min-browser-review/</id>
 
-        <updated>2021-07-10T19:57:20-05:00</updated>
+        <updated>2021-07-10T20:00:31-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Recently, I became aware of the browser Min. Min is a simple, minimalistic, open source, Electron browser.</p>
+                    <p>Recently, I became aware of the browser <a href="https://minbrowser.org/">Min</a>. Min is a simple, minimalistic, open source, Electron browser.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Recently, I became aware of the browser Min. Min is a simple, minimalistic, open source, Electron browser.</p>
+                <p>Recently, I became aware of the browser <a href="https://minbrowser.org/">Min</a>. Min is a simple, minimalistic, open source, Electron browser.</p>
 
 <p>Min can work as a basic browser. It has a very modern and minimalistic interface, focus mode, and even a feature called tasks which allows you to have different workspaces for your tabs.  One downside is that Min does not offer support extensions (as of now). However, it does offer support for 1Password, Bitwarden, and even a built in password manager.</p>
 <p> </p>
