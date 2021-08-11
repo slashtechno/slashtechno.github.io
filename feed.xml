@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>slashtechno</title>
-    <link href="https://slashtechno.github.io/feed.xml" rel="self" />
-    <link href="https://slashtechno.github.io" />
+    <link href="https://slashtechno.com/feed.xml" rel="self" />
+    <link href="https://slashtechno.com" />
     <updated>2021-08-05T16:31:54-05:00</updated>
     <author>
         <name>slashtechno</name>
     </author>
-    <id>https://slashtechno.github.io</id>
+    <id>https://slashtechno.com</id>
 
     <entry>
         <title>Min Browser Review</title>
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/min-browser-review/"/>
-        <id>https://slashtechno.github.io/min-browser-review/</id>
+        <link href="https://slashtechno.com/min-browser-review/"/>
+        <id>https://slashtechno.com/min-browser-review/</id>
 
         <updated>2021-07-10T20:00:31-05:00</updated>
             <summary>
@@ -48,8 +48,8 @@
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/"/>
-        <id>https://slashtechno.github.io/my-thoughts-on-the-m1-ipad/</id>
+        <link href="https://slashtechno.com/my-thoughts-on-the-m1-ipad/"/>
+        <id>https://slashtechno.com/my-thoughts-on-the-m1-ipad/</id>
 
         <updated>2021-05-28T16:36:51-05:00</updated>
             <summary>
@@ -71,8 +71,8 @@
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/backup-an-external-usb-to-google-drive/"/>
-        <id>https://slashtechno.github.io/backup-an-external-usb-to-google-drive/</id>
+        <link href="https://slashtechno.com/backup-an-external-usb-to-google-drive/"/>
+        <id>https://slashtechno.com/backup-an-external-usb-to-google-drive/</id>
 
         <updated>2021-08-05T16:31:54-05:00</updated>
             <summary>
@@ -100,8 +100,8 @@
         <author>
             <name>slashtechno</name>
         </author>
-        <link href="https://slashtechno.github.io/samsung-t7-review/"/>
-        <id>https://slashtechno.github.io/samsung-t7-review/</id>
+        <link href="https://slashtechno.com/samsung-t7-review/"/>
+        <id>https://slashtechno.com/samsung-t7-review/</id>
 
         <updated>2021-05-28T16:28:55-05:00</updated>
             <summary>
