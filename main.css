@@ -95,6 +95,13 @@ main {
     transition: top 0.15s ease, opacity 0.25s ease, background-color 0.25s ease;
     padding: var(--navbar-padding);
 }
+.navbar_list{
+  list-style-type: none; /*Removes bulletpoints*/
+}
+.navbar_item{
+  float:left;
+  margin-left: +1.8%;
+}
 .navbar h2, .navbar a {
     display: inline;
     padding: 0;
