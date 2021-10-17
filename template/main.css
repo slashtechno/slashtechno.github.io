@@ -33,7 +33,7 @@ main p {
     margin: 0;
     margin-top: 0.5em;
     font-size: 1.3rem;
-font-family: 'Fira Sans', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 .toparea {
     z-index: 1;
@@ -86,6 +86,13 @@ font-family: 'Fira Sans', sans-serif;
     transition: top 0.15s ease, opacity 0.25s ease, background-color 0.25s ease;
     padding: var(--navbar-padding);
 }
+.navbar_list{
+  list-style-type: none; /*Removes bulletpoints*/
+}
+.navbar_item{
+  float:left;
+  margin-left: +1.8%;
+}
 .navbar h2, .navbar a {
     display: inline;
     padding: 0;
@@ -107,6 +114,7 @@ a:not(.normala):hover {
 }
 .normalcolor {
     color: var(--primairy-text-color-light) !important;
+    text-decoration: none;
 }
 .navbar h2:hover {
     color: #A32C32 !important;
