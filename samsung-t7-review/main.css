@@ -92,6 +92,8 @@ main p {
 .navbar_item{
   float:left;
   margin-left: +1.8%;
+  color:white;
+  font-family: 'Lato';
 }
 .navbar h2, .navbar a {
     display: inline;

@@ -22,13 +22,6 @@ main {
     align-items:center;
     flex-direction: column;
 }
-.navbar_list{
-  list-style-type: none; /*Removes bulletpoints*/
-}
-.navbar_item{
-  float:left;
-  margin-left: +1.8%;
-}
 main h3 {
     font-size: 2em;
     font-weight: 700;
@@ -92,6 +85,15 @@ main p {
     opacity: 1;
     transition: top 0.15s ease, opacity 0.25s ease, background-color 0.25s ease;
     padding: var(--navbar-padding);
+}
+.navbar_list{
+  list-style-type: none; /*Removes bulletpoints*/
+}
+.navbar_item{
+  float:left;
+  margin-left: +1.8%;
+  color:white;
+  font-family: 'Lato';
 }
 .navbar h2, .navbar a {
     display: inline;
