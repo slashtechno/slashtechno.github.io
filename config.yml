@@ -8,7 +8,7 @@ params:
   # homeInfoParams:
   #   Title: "I am slashtechno."
   #   Content: This is my website.
-
+  env: production # Enables enchanced SEO
   profileMode:
     enabled: true
     title: "I am slashtechno."
