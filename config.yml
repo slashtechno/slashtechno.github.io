@@ -16,8 +16,6 @@ params:
     buttons:
       - name: Blog Posts
         url: "/archives/"
-      - name: Github
-        url: "https://github.com/slashtechno"
   socialIcons: # Show the respective social icon linked to the corresponding URL
     - name: github
       url: "https://github.com/slashtechno"
