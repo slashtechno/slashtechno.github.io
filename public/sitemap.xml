@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>new.slashtechno.com/categories/</loc>
+    <lastmod>2022-07-28T18:21:20-05:00</lastmod>
+  </url><url>
+    <loc>new.slashtechno.com/categories/general/</loc>
+    <lastmod>2022-07-28T18:21:20-05:00</lastmod>
+  </url><url>
+    <loc>new.slashtechno.com/posts/hello-world/</loc>
+    <lastmod>2022-07-28T18:21:20-05:00</lastmod>
+  </url><url>
+    <loc>new.slashtechno.com/posts/</loc>
+    <lastmod>2022-07-28T18:21:20-05:00</lastmod>
+  </url><url>
+    <loc>new.slashtechno.com/</loc>
+    <lastmod>2022-07-28T18:21:20-05:00</lastmod>
+  </url><url>
+    <loc>new.slashtechno.com/archives/</loc>
+  </url><url>
+    <loc>new.slashtechno.com/tags/</loc>
+  </url>
+</urlset>

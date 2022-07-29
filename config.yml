@@ -1,0 +1,46 @@
+baseURL: 'https://new.slashtechno.com'
+languageCode: en-us
+title: slashtechno
+theme: PaperMod
+
+params:
+  # Home info mode
+  # homeInfoParams:
+  #   Title: "I am slashtechno."
+  #   Content: This is my website.
+
+  profileMode:
+    enabled: true
+    title: "I am slashtechno."
+    subtitle: "This is  my website."
+    buttons:
+      - name: Blog Posts
+        url: "/archives/"
+      - name: Github
+        url: "https://github.com/slashtechno"
+  socialIcons: # Show the respective social icon linked to the corresponding URL
+    - name: github
+      url: "https://github.com/slashtechno"
+    - name: twitter
+      url: "https://twitter.com/randompythondev"
+  cover:
+    linkFullImages: true # Clicking a post's cover image opens the image in a new tab
+  # Other settings
+  ShowBreadcrumbs: true # Show the path to a page'
+  ShowReadingTime: true # Show the page's reading time
+  # ShowShareButtons: true # Show the share buttons
+  # ShowPostNavLinks: true # Show navigation links under a post
+# menu:
+#   main:
+#     - indentifier: categories
+#       name: Categories
+#       url: /categories/
+#       weight: 10
+#     - indentifier: tags
+#       name: Tags
+#       url: /tags/
+#       weight: 20
+#     - indentifier: archives
+#       name: Archives
+#       url: /archives/
+#       weight: 30
