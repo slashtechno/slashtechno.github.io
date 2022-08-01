@@ -4,6 +4,8 @@ title: slashtechno
 theme: PaperMod
 
 params:
+  title: slashtechno
+  description: "This is my website."
   # Home info mode
   # homeInfoParams:
   #   Title: "I am slashtechno."
@@ -12,7 +14,7 @@ params:
   profileMode:
     enabled: true
     title: "I am slashtechno."
-    subtitle: "This is  my website."
+    subtitle: "This is my website."
     buttons:
       - name: Blog Posts
         url: "/archives/"
