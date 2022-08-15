@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Blog"
 layout: "archives"
 url: "/archives/"
 summary: "Archive of blog posts"

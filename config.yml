@@ -11,13 +11,14 @@ params:
   #   Title: "I am slashtechno."
   #   Content: This is my website.
   env: production # Enables enchanced SEO
+  images: logo.png
   profileMode:
     enabled: true
     title: "I am slashtechno."
     subtitle: "This is my website."
     buttons:
       - name: Blog Posts
-        url: "/archives/"
+        url: "/posts/"
       - name: Who am I?
         url: "/about/"
   socialIcons: # Show the respective social icon linked to the corresponding URL
@@ -32,17 +33,17 @@ params:
   ShowReadingTime: true # Show the page's reading time
   # ShowShareButtons: true # Show the share buttons
   # ShowPostNavLinks: true # Show navigation links under a post
-# menu:
-#   main:
-#     - indentifier: categories
-#       name: Categories
-#       url: /categories/
-#       weight: 10
-#     - indentifier: tags
-#       name: Tags
-#       url: /tags/
-#       weight: 20
-#     - indentifier: archives
-#       name: Archives
-#       url: /archives/
-#       weight: 30
+outputs:
+    home:
+        - HTML
+        - JSON
+menu:
+  main:
+    - indentifier: github
+      name: Github
+      url: https://github.com/slashtechno
+      weight: 2
+    - indentifier: search
+      name: Search
+      url: search/
+      weight: 1
