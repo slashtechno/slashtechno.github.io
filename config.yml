@@ -11,7 +11,7 @@ params:
   #   Title: "I am slashtechno."
   #   Content: This is my website.
   env: production # Enables enchanced SEO
-  images: logo.png
+  images: [logo.png]
   profileMode:
     enabled: true
     title: "I am slashtechno."
