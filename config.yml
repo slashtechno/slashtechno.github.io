@@ -18,7 +18,7 @@ params:
     subtitle: "This is my website."
     buttons:
       - name: Blog Posts
-        url: "/posts/"
+        url: "/blog/"
       - name: Who am I?
         url: "/about/"
   socialIcons: # Show the respective social icon linked to the corresponding URL

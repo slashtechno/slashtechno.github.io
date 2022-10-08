@@ -3,7 +3,7 @@ title: "About"
 date: 2022-07-29T14:18:22-05:00
 draft: false
 url: "/about/"
-summary: "About me, slashtechno"
+description: "About me, slashtechno"
 params:
     description: "About me, slashtechno"
     title: "About"
