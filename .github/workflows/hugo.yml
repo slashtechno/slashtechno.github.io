@@ -21,9 +21,9 @@ jobs:
           hugo-version: latest
       - name: Build
         run: hugo
-      - name: ls public
-        run: ls public
-      - run: readlink -f public
+      # - run: ls public
+      # - run: readlink -f public
+      - run: cp ${{ GITHUB.WORKSPACE }}/.old-site ${{ GITHUB.WORKSPACE }}/public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
