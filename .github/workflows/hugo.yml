@@ -23,7 +23,7 @@ jobs:
         run: hugo
       # - run: ls public
       # - run: readlink -f public
-      - run: cp ${{ GITHUB.WORKSPACE }}/.old-site ${{ GITHUB.WORKSPACE }}/public
+      - run: cp -r ${{ GITHUB.WORKSPACE }}/.old-site ${{ GITHUB.WORKSPACE }}/public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
