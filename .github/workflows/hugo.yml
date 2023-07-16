@@ -25,7 +25,7 @@ jobs:
       # - run: readlink -f public
       - run: cp -r ${{ GITHUB.WORKSPACE }}/.old-site ${{ GITHUB.WORKSPACE }}/public
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
   deploy:
