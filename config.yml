@@ -23,9 +23,9 @@ params:
         url: "/about/"
   socialIcons: # Show the respective social icon linked to the corresponding URL
     - name: github
-      url: "https://github.com/slashtechno"
-    - name: twitter
-      url: "https://twitter.com/therandomdev"
+      url: "https:/github.com/slashtechno"
+    - name: mastodon 
+      url: "https://fosstodon.org/@slashtechno"
   cover:
     linkFullImages: true # Clicking a post's cover image opens the image in a new tab
   # Other settings
