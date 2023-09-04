@@ -6,7 +6,7 @@ draft: false
 # tags: ["github", "software"]
 description: Running Synapse in Docker to self-host a Matrix instance 
 ---  
-Matrix is a versatile protocol for communication. Similarly to ActivityPub, which Mastodon uses, Matrix supports federation. Thus, by self-hosting, you're using your own server whilst also being able to use your own domain.  
+Matrix is a versatile protocol for communication. Similar to ActivityPub, which Mastodon uses, Matrix supports federation. Thus, by self-hosting, you're using your own server whilst also being able to use your own domain.  
 
 
 ### Setup  
@@ -67,7 +67,7 @@ docker run -d --name synapse \
 ### Useful links  
 * [Cinny](https://cinny.in/) - A Matrix client
 * [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - Manage your Synapse instance from a web based interface  
-* [matrixdotorg/synapse](https://hub.docker.com/r/matrixdotorg/synapse) The Synapse Docker image with a useful README
+* [matrixdotorg/synapse](https://hub.docker.com/r/matrixdotorg/synapse) - The Synapse Docker image with a useful README
 * [Self hosting your own Matrix server on a Raspberry Pi](https://theselfhostingblog.com/posts/self-hosting-your-own-matrix-server-on-a-raspberry-pi/) - One of the tutorials I used  
 * [How to Install Matrix Synapse Homeserver Using Docker](https://linuxhandbook.com/install-matrix-synapse-docker/) - One of the tutorials I used  
 

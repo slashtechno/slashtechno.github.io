@@ -23,7 +23,7 @@ params:
         url: "/about/"
   socialIcons: # Show the respective social icon linked to the corresponding URL
     - name: github
-      url: "https:/github.com/slashtechno"
+      url: "https://github.com/slashtechno"
     - name: mastodon 
       url: "https://fosstodon.org/@slashtechno"
   cover:
