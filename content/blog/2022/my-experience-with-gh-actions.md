@@ -6,6 +6,7 @@ draft: false
 # tags: ["github", "software"]
 params:
     description: I've started using Github Actions. This is my experience with it, and how I setup a Go CI workflow 
+    canonicalURL: "https://angad.me/blog/2022/my-experience-with-gh-actions/"
 ---
 I started using Github Actions a couple months ago. While I'm not a power user of Github Actions, I still find it to be powerful.  
 ### What is Github Actions?  

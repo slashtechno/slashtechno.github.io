@@ -1,0 +1,8 @@
+<!-- https://github.com/adityatelange/hugo-PaperMod/blob/3f50861a0ced88f9b614a43662edeb4c0bc45da8/layouts/partials/post_canonical.html -->
+{{ if .Params.canonicalURL -}}
+{{ $url := urls.Parse .Params.canonicalURL }}
+<span>
+    {{- (site.Params.CanonicalLinkText | default .Params.CanonicalLinkText) | default "Originally published at" -}}
+    &nbsp;<a href="{{ trim .Params.canonicalURL " " }}" title="{{ trim .Params.canonicalURL " " }}" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">{{ $url.Host }}</a>
+</span>
+{{- end }}
