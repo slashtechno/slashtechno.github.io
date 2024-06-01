@@ -5,6 +5,7 @@ description: "Hi! I'm a student and an aspiring software developer."
 theme: "lynx"
 
 params:
+  CanonicalLinkText: "Also published at"
   author:
     name: slashtechno
     headline: Hi! I'm a student and an aspiring software developer.
