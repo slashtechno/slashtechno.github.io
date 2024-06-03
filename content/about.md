@@ -4,9 +4,6 @@ date: 2022-07-29T14:18:22-05:00
 draft: false
 url: "/about/"
 description: "About me, slashtechno"
-params:
-    description: "About me, slashtechno"
-    title: "About"
 hidemeta: true
 ---
 ### I am slashtechno.  

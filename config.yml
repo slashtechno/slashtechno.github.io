@@ -19,9 +19,13 @@ params:
       #     text: "All the link styles"
       #     target: "_self"
       - github: "https://github.com/slashtechno"
-      - Mastodon: 
+      - mastodon: 
           href: "https://fosstodon.org/@slashtechno"
           text: "Mastodon"  
+      - link: 
+          href: "https://github.com/sponsors/slashtechno"
+          text: "Sponsor me on GitHub :heart:!"
+      
 # theme: PaperMod
 # params:
 #   title: slashtechno
