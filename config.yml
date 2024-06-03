@@ -3,6 +3,8 @@ languageCode: en-us
 title: slashtechno
 description: "Hi! I'm a student and an aspiring software developer."
 theme: "lynx"
+copyright: © 2024 Angad Behl
+
 
 params:
   CanonicalLinkText: "Also published at"
@@ -22,9 +24,12 @@ params:
       - mastodon: 
           href: "https://fosstodon.org/@slashtechno"
           text: "Mastodon"  
-      - link: 
+      - sponsor:
           href: "https://github.com/sponsors/slashtechno"
-          text: "Sponsor me on GitHub :heart:!"
+          text: "Sponsor me!"
+      - fiverr:
+          href: "https://www.fiverr.com/angadbehl"
+          text: "Hire me on Fiverr!"
       
 # theme: PaperMod
 # params:
