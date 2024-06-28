@@ -7,7 +7,7 @@ copyright: © 2024 Angad Behl
 
 
 params:
-  CanonicalLinkText: "Also published at"
+  canonicalURL: "https://angad.me/"
   author:
     name: slashtechno
     headline: Hi! I'm a student and an aspiring software developer.

@@ -1,0 +1,7 @@
+<!-- https://github.com/adityatelange/hugo-PaperMod/blob/3f50861a0ced88f9b614a43662edeb4c0bc45da8/layouts/partials/post_canonical.html -->
+{{ if .Params.canonicalURL -}}
+{{ $url := urls.Parse .Params.canonicalURL }}
+<!-- if the canonical URL is set, set the canonical link -->
+<link rel="canonical" href="{{ $url.String }}" />
+{{- else -}}
+{{- end }}
