@@ -4,8 +4,7 @@ date: 2024-02-03
 draft: false
 description: Setting up a (simple) bridge between Matrix and Signal
 params:
-    canonicalURL: "https://angad.me/blog/2024/synapse-signal-bridge/"
-
+  canonicalURL: "https://angad.me/blog/2024/synapse-signal-bridge/"
 ---  
 ## A short introduction  
 In September of 2023, I wrote a [post](/blog/2023/setting-up-synapse/) regarding the setup of a simple Matrix server. Personally, I think that Matrix is a cool protocol, but I don't use it much (at the time of writing). However, I love the ability to bridge chat services. Beeper, the company which has recently been in the news for developing a native Android iMessage client, originally started out bridging chat services. Whilst their service itself is proprietary (at the time of writing), the bridges they use are open source. They even have a [guide](https://github.com/beeper/self-host) on how to self-host various bridges and Matrix with Ansible. I have not gotten around to learning Ansible so I manually set up various Docker containers which allows for a similar result.

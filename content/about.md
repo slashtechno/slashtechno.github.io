@@ -4,13 +4,12 @@ date: 2022-07-29T14:18:22-05:00
 draft: false
 url: "/about/"
 description: "About me, slashtechno"
-params:
-    canonicalURL: "https://angad.me/about"
+canonicalURL: "https://angad.me/about"
 hidemeta: true
 ---
 ### I am slashtechno.  
 I am a programmer. I started programming at a young age, and when I created my Github account, my interest in programming skyrocketed. Currently, many of my programs aim to increase quality of life by simplifying tasks. 
-Above all else, I enjoy tinkering with software (and sometimes hardware.) Whether it be Linux, Windows, networking, or something else entirely, the possibilites of what can be done with computers are endless.
+Above all else, I enjoy tinkering with software (and sometimes hardware.) Whether it be Linux, Windows, networking, or something else entirely, the possibilities of what can be done with computers are endless.
 
 **Don't be evil.**
  

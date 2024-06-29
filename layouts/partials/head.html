@@ -28,17 +28,8 @@
     {{ with .Params.robots }}
       <meta name="robots" content="{{ . }}" />
     {{ end }}
-     <!-- If it's a post, use Params.canonicalURL. Otherwise, use Site.Params.canonicalURL. -->
-    {{ if .IsPage -}}
-      {{ if .Params.canonicalURL -}}
-        {{ $url := urls.Parse .Params.canonicalURL }}
-        <link rel="canonical" href="{{ $url.String }}" />
-        <!-- If the canonical URL is set, set the canonical link. Otherwise, don't set it. -->
-      {{- end }}
-    {{- else -}}
-        {{ $url := urls.Parse .Site.Params.canonicalURL }}
-        <link rel="canonical" href="{{ $url.String }}" />
-        {{- end }}
+    <link rel="canonical" href="{{.Param "canonicalURL"}}" />
+
     {{ range .AlternativeOutputFormats -}}
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{ end -}}

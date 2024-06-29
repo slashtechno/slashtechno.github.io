@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2022-07-28
-draft: false
+draft: true
 cover:
     # image: "random-image.jpg"
     # alt: "an image"
