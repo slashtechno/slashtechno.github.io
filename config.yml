@@ -27,9 +27,6 @@ params:
       - sponsor:
           href: "https://github.com/sponsors/slashtechno"
           text: "Sponsor me!"
-      - fiverr:
-          href: "https://www.fiverr.com/angadbehl"
-          text: "Hire me on Fiverr!"
       
 # theme: PaperMod
 # params:
